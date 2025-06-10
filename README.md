@@ -75,8 +75,7 @@ I'm a passionate and disciplined **Software Development Engineer in Test (SDET)*
 ---
 
 ## 📫 Contact Me
-
-- 📧 Email: [kadrijadardan@gmail.com](mailto:kadrijadardan@gmail.com)  
+ 
 - 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija)  
 - 🌍 Portfolio: *(coming soon)*  
 - 📍 Location: Kosovo 🇽🇰
