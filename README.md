@@ -21,18 +21,46 @@ I'm a passionate and disciplined **Software Development Engineer in Test (SDET)*
   Learned MEAN stack, Redis basics, and built small experimental projects.
 
 ---
+💻 Tech Stack (SDET)
 
-### 🧰 Tech Stack
+🧠 Languages
+Java Python JavaScript SQL Gherkin
 
-**Languages**: Java, Python, JavaScript, SQL, Gherkin
-**Automation Tools**: Selenium WebDriver, TestNG, JUnit, Cucumber, REST Assured, Postman
-**Frameworks**: Page Object Model (POM), Data-Driven Testing (DDT), Behavior-Driven Development (BDD)
-**Build & CI/CD Tools**: Maven, Jenkins
-**Version Control & Project Tools**: Git, GitHub, Jira
-**Web Technologies**: HTML, CSS, JSON
-**Cloud & Services**: AWS (basic), REST APIs
-**Databases**: MySQL, Oracle, JDBC
-**Methodologies**: Agile (Scrum), Waterfall
+🧪 Automation & Testing Tools
+Selenium WebDriver TestNG JUnit Cucumber REST Assured Postman
+
+📦 Frameworks & Patterns
+Page Object Model (POM) Data-Driven Testing (DDT) Behavior-Driven Development (BDD)
+
+⚙️ CI/CD & Build Tools
+Maven Jenkins
+
+🔧 Version Control & Project Management
+Git GitHub Jira
+
+🌐 Web & API Technologies
+HTML CSS JSON REST APIs AWS (Basic)
+
+🗄️ Databases
+MySQL Oracle JDBC
+
+📈 Methodologies
+Agile (Scrum) Waterfall
+
+🧩 Optional & Bonus Tools
+📊 Reporting Tools
+Extent Reports Allure Reports
+
+🐳 DevOps & Containerization
+Docker Kubernetes
+
+🚀 Performance Testing
+Apache JMeter Gatling
+
+🧩 Monitoring & Logs
+ELK Stack Splunk
+
+
 
 ---
 
