@@ -6,76 +6,89 @@ I'm a passionate and disciplined **Software Development Engineer in Test (SDET)*
 
 ---
 
-### 💼 Work Experience Highlights
+## 💼 Work Experience Highlights
 
-- 🛠️ **Technical Support Engineer** @ **A&O Hostel** (Dec 2024 – Present)  
-  Supporting production systems, handling escalations, replicating bugs, and improving documentation and issue resolution efficiency.
+### 🛠️ Technical Support Engineer — *A&O Hostel*  
+📅 Dec 2024 – Present  
+- Support production systems and resolve technical escalations  
+- Reproduce bugs, analyze root causes, and improve documentation  
+- Enhance efficiency in issue resolution and customer satisfaction  
 
-- 🎓 **SDET Automation Mentor** @ **Cydeo** & **Sonnecto** (2019 – 2022)  
-  - Mentored 15+ student groups in **Java**, **Selenium**, **TestNG**, **Cucumber**, and **REST Assured**  
-  - Taught and built real QA frameworks (POM, BDD, DDT)  
-  - Guided full project cycles from setup to evaluation  
-  - Provided one-on-one coaching, feedback, and live code reviews
-
-- 🧪 **Intern Developer** @ **AdaptivIT** (2017)  
-  Learned MEAN stack, Redis basics, and built small experimental projects.
-
----
-💻 Tech Stack (SDET)
-
-🧠 Languages
-Java Python JavaScript SQL Gherkin
-
-🧪 Automation & Testing Tools
-Selenium WebDriver TestNG JUnit Cucumber REST Assured Postman
-
-📦 Frameworks & Patterns
-Page Object Model (POM) Data-Driven Testing (DDT) Behavior-Driven Development (BDD)
-
-⚙️ CI/CD & Build Tools
-Maven Jenkins
-
-🔧 Version Control & Project Management
-Git GitHub Jira
-
-🌐 Web & API Technologies
-HTML CSS JSON REST APIs AWS (Basic)
-
-🗄️ Databases
-MySQL Oracle JDBC
-
-📈 Methodologies
-Agile (Scrum) Waterfall
-
-🧩 Optional & Bonus Tools
-📊 Reporting Tools
-Extent Reports Allure Reports
-
-🐳 DevOps & Containerization
-Docker Kubernetes
-
-🚀 Performance Testing
-Apache JMeter Gatling
-
-🧩 Monitoring & Logs
-ELK Stack Splunk
-
-
+### 🎓 SDET Automation Mentor — *Cydeo & Sonnecto*  
+📅 2019 – 2022  
+- Mentored 15+ student groups in **Java**, **Selenium**, **TestNG**, **Cucumber**, and **REST Assured**  
+- Built real-world QA automation frameworks: **POM**, **BDD**, and **DDT**  
+- Led full project cycles from environment setup to final evaluation  
+- Provided personalized coaching, live code reviews, and technical feedback
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
-![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DardanKadrija&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DardanKadrija&layout=compact)
+**Languages**  
+`Java` `Python` `JavaScript` `SQL` `Gherkin`
+
+**Automation & Testing Tools**  
+`Selenium WebDriver` `TestNG` `JUnit` `Cucumber` `REST Assured` `Postman`
+
+**Frameworks & Patterns**  
+`Page Object Model (POM)` `Data-Driven Testing (DDT)` `Behavior-Driven Development (BDD)`
+
+**CI/CD & Build Tools**  
+`Maven` `Jenkins`
+
+**Version Control & Project Management**  
+`Git` `GitHub` `Jira`
+
+**Web & API Technologies**  
+`HTML` `CSS` `JSON` `REST APIs` `AWS (Basic)`
+
+**Databases**  
+`MySQL` `Oracle` `JDBC`
+
+**Methodologies**  
+`Agile (Scrum)` `Waterfall`
 
 ---
 
-### 📫 Connect with Me
+## 🧩 Optional & Bonus Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dardan-kadrija-9930a935a/)  
-📧 dardan.kadrija@gmail.com
+**Reporting**  
+`Extent Reports` `Allure Reports`
+
+**Performance Testing**  
+`Apache JMeter` `Gatling`
+
+**DevOps & Monitoring**  
+`Docker` `Kubernetes` `ELK Stack` `Splunk`
 
 ---
 
-> _"The best testers aren’t just bug hunters — they’re quality advocates."_  
+## 📌 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Automation Framework** | Built a scalable Selenium + TestNG + POM framework with Cucumber integration | Java, Selenium, Maven |
+| **API Testing Suite** | Automated REST API tests with validation and reporting | REST Assured, Postman |
+| **Mentorship LMS** *(internal)* | Guided students through weekly tasks, feedback, and test cycle delivery | Java, GitHub Projects, Jira |
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [kadrijadardan@gmail.com](mailto:kadrijadardan@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija)  
+- 🌍 Portfolio: *(coming soon)*  
+- 📍 Location: Kosovo 🇽🇰
+
+---
+
+## 📈 GitHub Stats
+
+![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dardankadrija&show_icons=true&theme=default&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dardankadrija&layout=compact)
+
+---
+
+*Thanks for visiting! Let’s build something amazing.* 🚀
