@@ -17,9 +17,6 @@ I'm a passionate and disciplined **Software Development Engineer in Test (SDET)*
   - Guided full project cycles from setup to evaluation  
   - Provided one-on-one coaching, feedback, and live code reviews
 
-- 🔍 **Manual QA / Customer Support** (May 2022 – Aug 2023)  
-  Helped users navigate features and reported usability bugs across platforms.
-
 - 🧪 **Intern Developer** @ **AdaptivIT** (2017)  
   Learned MEAN stack, Redis basics, and built small experimental projects.
 
