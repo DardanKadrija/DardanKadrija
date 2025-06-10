@@ -24,13 +24,15 @@ I'm a passionate and disciplined **Software Development Engineer in Test (SDET)*
 
 ### 🧰 Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL, Gherkin  
-**Automation:** Selenium, JUnit, TestNG, Cucumber, Rest Assured, Postman  
-**Frameworks:** Page Object Model, Data Driven, BDD  
-**Dev Tools:** Git, GitHub, Maven, Jenkins, Jira  
-**Web Tech:** HTML, CSS, JSON, AWS  
-**Databases:** MySQL, Oracle DB, JDBC  
-**Methodologies:** Agile, Scrum, Waterfall
+**Languages**: Java, Python, JavaScript, SQL, Gherkin
+**Automation Tools**: Selenium WebDriver, TestNG, JUnit, Cucumber, REST Assured, Postman
+**Frameworks**: Page Object Model (POM), Data-Driven Testing (DDT), Behavior-Driven Development (BDD)
+**Build & CI/CD Tools**: Maven, Jenkins
+**Version Control & Project Tools**: Git, GitHub, Jira
+**Web Technologies**: HTML, CSS, JSON
+**Cloud & Services**: AWS (basic), REST APIs
+**Databases**: MySQL, Oracle, JDBC
+**Methodologies**: Agile (Scrum), Waterfall
 
 ---
 
