@@ -93,7 +93,6 @@ Topics Covered:
 
 ## 🌐 Contact Me
 
-- 📧 Email: [kadrijadardan@gmail.com](mailto:kadrijadardan@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija-9930a935a)  
 - 📍 Location: Kosovo | Open to remote or relocation
 
