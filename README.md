@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dardan Kadrija
 
 🚀 **SDET Engineer & Mentor** | 💻 **Technical Support Specialist** | 🛡️ **Cybersecurity Trained**  
-📍 Prishtinë, Kosovo | 🇽🇰  
+📍 Prishtinë, Kosovo 🇽🇰  
 🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a) • [GitHub](https://github.com/DardanKadrija)
 
 ---
@@ -12,25 +12,25 @@ I'm a results-driven **Software Development Engineer in Test (SDET)** and **Tech
 
 ## 💼 Work Experience Highlights
 
-### 🛠️ Technical Support Engineer — *A&O Hostel*  
+### Technical Support Engineer — *A&O Hostel*  
 📅 Dec 2024 – Present  
 - Diagnose bugs, respond to support requests, and escalate technical issues  
 - Develop automated health checks and write internal documentation  
 - Collaborate with product/dev teams for continuous improvement  
 
-### 🎓 SDET Mentor — *CYDEO*  
+### SDET Mentor — *CYDEO*  
 📅 May 2021 – Oct 2022  
 - Mentored 15+ student groups in automation (Java, Selenium, TestNG, Cucumber)  
 - Built and reviewed BDD frameworks and authored API/UI test plans  
 - Delivered live code reviews and database validation projects  
 
-### 🧑‍🏫 SDET Mentor Assistant / Mentor — *Sonnecto*  
+### SDET Mentor Assistant / Mentor — *Sonnecto*  
 📅 Sep 2019 – Apr 2022  
 - Guided over 15 cohorts through hands-on automation bootcamps  
 - Built reusable Java-based frameworks and executed complete test cycles  
 - Led integration, regression, and DB testing initiatives  
 
-### 👨‍💻 Intern - Full Stack Developer — *AdaptivIT*  
+### Intern - Full Stack Developer — *AdaptivIT*  
 📅 Feb 2017 – May 2017  
 - Developed internal tools using the MEAN stack  
 - Researched Redis for caching and modern JS frameworks  
@@ -44,11 +44,11 @@ I'm a results-driven **Software Development Engineer in Test (SDET)** and **Tech
 
 ### 🔐 Cybersecurity Certificate — *Cyber Academy*  
 📅 Mar 2023 – Mar 2024  
-Topics Covered:  
+Covered Topics:  
 - OS Security, Information Security, Cryptography  
 - Networking, Infrastructure Hardening, Wireless Pentesting  
 - Exploitation, Red Teaming, Python/Bash scripting  
-- Advanced Web/Mobile App Security, Cybercrime Investigation  
+- Advanced Web & Mobile App Security, Cybercrime Investigation  
 
 ---
 
@@ -58,7 +58,7 @@ Topics Covered:
 `Java` `Python` `Bash` `SQL` `Gherkin`
 
 **Automation & Testing Tools**  
-`Selenium WebDriver` `Cucumber` `TestNG` `JUnit` `Rest Assured` `Postman` `Swagger` `Burp Suite`
+`Selenium WebDriver` `Cucumber` `TestNG` `JUnit` `REST Assured` `Postman` `Swagger` `Burp Suite`
 
 **Frameworks & Patterns**  
 `Page Object Model (POM)` `Data-Driven Testing (DDT)` `Behavior-Driven Development (BDD)`
@@ -80,6 +80,20 @@ Topics Covered:
 
 ---
 
+**📊 Reporting Tools**  
+`Extent Reports` `Allure Reports`
+
+**🚀 Performance Testing**  
+`Apache JMeter` `Gatling`
+
+**🐳 DevOps & Containerization**  
+`Docker` `Kubernetes`
+
+**🧩 Monitoring & Logs**  
+`ELK Stack` `Splunk`
+
+---
+
 ## 📌 Projects
 
 | Project | Description | Tech Stack |
@@ -91,8 +105,8 @@ Topics Covered:
 
 ---
 
-## 🌐 Contact Me
-
+## 📫 Contact Me
+ 
 - 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija-9930a935a)  
 - 📍 Location: Kosovo | Open to remote or relocation
 
@@ -105,4 +119,4 @@ Topics Covered:
 
 ---
 
-*Thanks for stopping by — let’s build something impactful!* 🚀
+*Thanks for stopping by — let’s build something impactful together.* 🚀
