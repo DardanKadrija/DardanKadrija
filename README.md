@@ -1,93 +1,52 @@
-# 👋 Hi, I'm Dardan Kadrija
-
-🚀 **SDET Automation Mentor** | 💻 **Technical Support Engineer** | 🧠 **Java | Selenium | Python**
-
-I'm a passionate and disciplined **Software Development Engineer in Test (SDET)** with strong foundations in **automation frameworks**, **technical support**, and **student mentorship**. With hands-on experience in **Java**, **Selenium**, and **REST API testing**, I’ve guided over a dozen cohorts through rigorous QA automation training while staying grounded in real-world engineering roles.
-
----
-
-## 💼 Work Experience Highlights
-
-### 🛠️ Technical Support Engineer — *A&O Hostel*  
-📅 Dec 2024 – Present  
-- Support production systems and resolve technical escalations  
-- Reproduce bugs, analyze root causes, and improve documentation  
-- Enhance efficiency in issue resolution and customer satisfaction  
-
-### 🎓 SDET Automation Mentor — *Cydeo & Sonnecto*  
-📅 2019 – 2022  
-- Mentored 15+ student groups in **Java**, **Selenium**, **TestNG**, **Cucumber**, and **REST Assured**  
-- Built real-world QA automation frameworks: **POM**, **BDD**, and **DDT**  
-- Led full project cycles from environment setup to final evaluation  
-- Provided personalized coaching, live code reviews, and technical feedback
+# Hi, I'm Dardan Kadrija 👋  
+**SDET Engineer | Technical Support Specialist | Cybersecurity Trainee**  
+📍 Prishtine, Kosovo | 💼 Open to QA, SDET & Support Engineering Roles  
+📧 dardan.kadrija@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/dardan-kadrija-9930a935a) | [GitHub](https://github.com/DardanKadrija)
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-**Languages**  
-`Java` `Python` `JavaScript` `SQL` `Gherkin`
+I'm a **results-driven SDET Engineer** with a strong background in automation testing, QA mentorship, and production support. I’ve led 30+ student groups through hands-on bootcamps, contributed to real-world QA frameworks, and delivered scalable test solutions using **Java, Selenium, and API tools**.
 
-**Automation & Testing Tools**  
-`Selenium WebDriver` `TestNG` `JUnit` `Cucumber` `REST Assured` `Postman`
-
-**Frameworks & Patterns**  
-`Page Object Model (POM)` `Data-Driven Testing (DDT)` `Behavior-Driven Development (BDD)`
-
-**CI/CD & Build Tools**  
-`Maven` `Jenkins`
-
-**Version Control & Project Management**  
-`Git` `GitHub` `Jira`
-
-**Web & API Technologies**  
-`HTML` `CSS` `JSON` `REST APIs` `AWS (Basic)`
-
-**Databases**  
-`MySQL` `Oracle` `JDBC`
-
-**Methodologies**  
-`Agile (Scrum)` `Waterfall`
+I'm also a recent **Cyber Academy graduate**, with growing expertise in penetration testing, scripting, and advanced security operations.
 
 ---
 
-## 🧩 Optional & Bonus Tools
+### 🛠️ Skills
 
-**Reporting**  
-`Extent Reports` `Allure Reports`
-
-**Performance Testing**  
-`Apache JMeter` `Gatling`
-
-**DevOps & Monitoring**  
-`Docker` `Kubernetes` `ELK Stack` `Splunk`
-
----
-
-## 📌 Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **Automation Framework** | Built a scalable Selenium + TestNG + POM framework with Cucumber integration | Java, Selenium, Maven |
-| **API Testing Suite** | Automated REST API tests with validation and reporting | REST Assured, Postman |
-| **Mentorship LMS** *(internal)* | Guided students through weekly tasks, feedback, and test cycle delivery | Java, GitHub Projects, Jira |
+**Languages:** Java, Python, Bash, SQL, Gherkin  
+**Automation:** Selenium WebDriver, Cucumber, JUnit, TestNG, Rest Assured  
+**API/Manual Testing:** Postman, Swagger, Burp Suite  
+**Frameworks:** BDD, Page Object Model, Data-Driven  
+**Security:** Nmap, Wireshark, Metasploit, OWASP ZAP, Aircrack-ng  
+**CI/CD & DevOps:** Jenkins, Git, GitHub  
+**Databases:** MySQL, Oracle, JDBC  
+**Web Tech:** HTML, CSS, JSON, AWS  
+**Methodologies:** Agile, Scrum, Waterfall  
 
 ---
 
-## 📫 Contact Me
- 
-- 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija)  
-- 🌍 Portfolio: *(coming soon)*  
-- 📍 Location: Kosovo 🇽🇰
+### 🎓 Education & Certifications
+
+- **BSc in Computer Science** — UBT, Prishtine  
+- **Cyber Academy Certified Professional**  
+  - OS Security, Cryptography, Networking  
+  - Web & Mobile Pentesting  
+  - Red Team Ops & Cybercrime Investigation
 
 ---
 
-## 📈 GitHub Stats
+### 📌 Projects Coming Soon
 
-![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dardankadrija&show_icons=true&theme=default&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dardankadrija&layout=compact)
+- ✅ Automated test suite for a weather app using Selenium + WebDriverIO  
+- 🔒 Penetration test labs using OWASP Juice Shop and DVWA  
+- 📊 REST API Testing Framework template with Cucumber + TestNG  
 
 ---
 
-*Thanks for visiting! Let’s build something amazing.* 🚀
+### 📫 Let's Connect
+
+I'm currently seeking opportunities in **QA, SDET, or Technical Support Engineering** — remote or onsite.  
+Feel free to reach out, fork a project, or just say hi!
