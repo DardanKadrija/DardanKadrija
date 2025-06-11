@@ -1,51 +1,109 @@
 # 👋 Hi, I'm Dardan Kadrija
 
-🚀 **SDET Automation Mentor** | 💻 **Technical Support Engineer** | 🧠 **Java | Selenium | Python**
-
-I'm a passionate and disciplined **Software Development Engineer in Test (SDET)** with strong foundations in **automation frameworks**, **technical support**, and **student mentorship**. With hands-on experience in **Java**, **Selenium**, and **REST API testing**, I’ve guided over a dozen cohorts through rigorous QA automation training while staying grounded in real-world engineering roles.
-
----
-
-### 💼 Work Experience Highlights
-
-- 🛠️ **Technical Support Engineer** @ **A&O Hostel** (Dec 2024 – Present)  
-  Supporting production systems, handling escalations, replicating bugs, and improving documentation and issue resolution efficiency.
-
-- 🎓 **SDET Automation Mentor** @ **Cydeo** & **Sonnecto** (2019 – 2022)  
-  - Mentored 15+ student groups in **Java**, **Selenium**, **TestNG**, **Cucumber**, and **REST Assured**  
-  - Taught and built real QA frameworks (POM, BDD, DDT)  
-  - Guided full project cycles from setup to evaluation  
-  - Provided one-on-one coaching, feedback, and live code reviews
-
-- 🧪 **Intern Developer** @ **AdaptivIT** (2017)  
-  Learned MEAN stack, Redis basics, and built small experimental projects.
+🚀 **SDET Engineer & Mentor** | 💻 **Technical Support Specialist** | 🛡️ **Cybersecurity Trained**  
+📍 Prishtinë, Kosovo | 🇽🇰  
+🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a) • [GitHub](https://github.com/DardanKadrija) • 📧 kadrijadardan@gmail.com
 
 ---
 
-### 🧰 Tech Stack
-
-**Languages:** Java, Python, JavaScript, SQL, Gherkin  
-**Automation:** Selenium, JUnit, TestNG, Cucumber, Rest Assured, Postman  
-**Frameworks:** Page Object Model, Data Driven, BDD  
-**Dev Tools:** Git, GitHub, Maven, Jenkins, Jira  
-**Web Tech:** HTML, CSS, JSON, AWS  
-**Databases:** MySQL, Oracle DB, JDBC  
-**Methodologies:** Agile, Scrum, Waterfall
+I'm a results-driven **Software Development Engineer in Test (SDET)** and **Technical Support Engineer** with a proven record in **automation frameworks**, **QA mentorship**, and **production system support**. I've mentored over 30 student groups in Java-based testing and actively contribute to stable, secure systems through hands-on support and cybersecurity insight.
 
 ---
 
-### 📈 GitHub Stats
+## 💼 Work Experience Highlights
 
-![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DardanKadrija&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DardanKadrija&layout=compact)
+### 🛠️ Technical Support Engineer — *A&O Hostel*  
+📅 Dec 2024 – Present  
+- Diagnose bugs, respond to support requests, and escalate technical issues  
+- Develop automated health checks and write internal documentation  
+- Collaborate with product/dev teams for continuous improvement  
+
+### 🎓 SDET Mentor — *CYDEO*  
+📅 May 2021 – Oct 2022  
+- Mentored 15+ student groups in automation (Java, Selenium, TestNG, Cucumber)  
+- Built and reviewed BDD frameworks and authored API/UI test plans  
+- Delivered live code reviews and database validation projects  
+
+### 🧑‍🏫 SDET Mentor Assistant / Mentor — *Sonnecto*  
+📅 Sep 2019 – Apr 2022  
+- Guided over 15 cohorts through hands-on automation bootcamps  
+- Built reusable Java-based frameworks and executed complete test cycles  
+- Led integration, regression, and DB testing initiatives  
+
+### 👨‍💻 Intern - Full Stack Developer — *AdaptivIT*  
+📅 Feb 2017 – May 2017  
+- Developed internal tools using the MEAN stack  
+- Researched Redis for caching and modern JS frameworks  
 
 ---
 
-### 📫 Connect with Me
+## 🧠 Education & Certifications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dardan-kadrija-9930a935a/)  
-📧 dardan.kadrija@gmail.com
+### 🎓 BSc in Computer Science — *UBT, Prishtinë*  
+📅 2016 – Present
+
+### 🔐 Cybersecurity Certificate — *Cyber Academy*  
+📅 Mar 2023 – Mar 2024  
+Topics Covered:  
+- OS Security, Information Security, Cryptography  
+- Networking, Infrastructure Hardening, Wireless Pentesting  
+- Exploitation, Red Teaming, Python/Bash scripting  
+- Advanced Web/Mobile App Security, Cybercrime Investigation  
 
 ---
 
-> _"The best testers aren’t just bug hunters — they’re quality advocates."_
+## 🛠️ Tech Stack
+
+**Languages**  
+`Java` `Python` `Bash` `SQL` `Gherkin`
+
+**Automation & Testing Tools**  
+`Selenium WebDriver` `Cucumber` `TestNG` `JUnit` `Rest Assured` `Postman` `Swagger` `Burp Suite`
+
+**Frameworks & Patterns**  
+`Page Object Model (POM)` `Data-Driven Testing (DDT)` `Behavior-Driven Development (BDD)`
+
+**CI/CD & Dev Tools**  
+`Jenkins` `Git` `GitHub`
+
+**Web & API Technologies**  
+`HTML` `CSS` `JSON` `REST APIs` `AWS (Basic)`
+
+**Databases**  
+`MySQL` `Oracle` `JDBC`
+
+**Security & Pentesting**  
+`Metasploit` `Nmap` `Wireshark` `OWASP ZAP` `Aircrack-ng`
+
+**Methodologies**  
+`Agile (Scrum)` `Waterfall`
+
+---
+
+## 📌 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Java Automation Framework** | Scalable framework with TestNG, Selenium, Cucumber | Java, Maven, TestNG, Selenium |
+| **API Automation Suite** | Automated API validations with DB integration | REST Assured, Postman, MySQL |
+| **Student LMS** *(internal)* | Guided 30+ students in end-to-end test cycles | Java, GitHub, Jira, BDD |
+| **Security Labs** *(Cyber Academy)* | Hands-on Red Team, Web/Mobile pentests | Python, Burp, Metasploit |
+
+---
+
+## 🌐 Contact Me
+
+- 📧 Email: [kadrijadardan@gmail.com](mailto:kadrijadardan@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/dardan-kadrija](https://linkedin.com/in/dardan-kadrija-9930a935a)  
+- 📍 Location: Kosovo | Open to remote or relocation
+
+---
+
+## 📊 GitHub Stats
+
+![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dardankadrija&show_icons=true&theme=default&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dardankadrija&layout=compact)
+
+---
+
+*Thanks for stopping by — let’s build something impactful!* 🚀
