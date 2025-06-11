@@ -1,52 +1,51 @@
-# Hi, I'm Dardan Kadrija 👋  
-**SDET Engineer | Technical Support Specialist | Cybersecurity Trainee**  
-📍 Prishtine, Kosovo | 💼 Open to QA, SDET & Support Engineering Roles  
-📧 dardan.kadrija@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dardan-kadrija-9930a935a) | [GitHub](https://github.com/DardanKadrija)
+# 👋 Hi, I'm Dardan Kadrija
+
+🚀 **SDET Automation Mentor** | 💻 **Technical Support Engineer** | 🧠 **Java | Selenium | Python**
+
+I'm a passionate and disciplined **Software Development Engineer in Test (SDET)** with strong foundations in **automation frameworks**, **technical support**, and **student mentorship**. With hands-on experience in **Java**, **Selenium**, and **REST API testing**, I’ve guided over a dozen cohorts through rigorous QA automation training while staying grounded in real-world engineering roles.
 
 ---
 
-### 👨‍💻 About Me
+### 💼 Work Experience Highlights
 
-I'm a **results-driven SDET Engineer** with a strong background in automation testing, QA mentorship, and production support. I’ve led 30+ student groups through hands-on bootcamps, contributed to real-world QA frameworks, and delivered scalable test solutions using **Java, Selenium, and API tools**.
+- 🛠️ **Technical Support Engineer** @ **A&O Hostel** (Dec 2024 – Present)  
+  Supporting production systems, handling escalations, replicating bugs, and improving documentation and issue resolution efficiency.
 
-I'm also a recent **Cyber Academy graduate**, with growing expertise in penetration testing, scripting, and advanced security operations.
+- 🎓 **SDET Automation Mentor** @ **Cydeo** & **Sonnecto** (2019 – 2022)  
+  - Mentored 15+ student groups in **Java**, **Selenium**, **TestNG**, **Cucumber**, and **REST Assured**  
+  - Taught and built real QA frameworks (POM, BDD, DDT)  
+  - Guided full project cycles from setup to evaluation  
+  - Provided one-on-one coaching, feedback, and live code reviews
+
+- 🧪 **Intern Developer** @ **AdaptivIT** (2017)  
+  Learned MEAN stack, Redis basics, and built small experimental projects.
 
 ---
 
-### 🛠️ Skills
+### 🧰 Tech Stack
 
-**Languages:** Java, Python, Bash, SQL, Gherkin  
-**Automation:** Selenium WebDriver, Cucumber, JUnit, TestNG, Rest Assured  
-**API/Manual Testing:** Postman, Swagger, Burp Suite  
-**Frameworks:** BDD, Page Object Model, Data-Driven  
-**Security:** Nmap, Wireshark, Metasploit, OWASP ZAP, Aircrack-ng  
-**CI/CD & DevOps:** Jenkins, Git, GitHub  
-**Databases:** MySQL, Oracle, JDBC  
+**Languages:** Java, Python, JavaScript, SQL, Gherkin  
+**Automation:** Selenium, JUnit, TestNG, Cucumber, Rest Assured, Postman  
+**Frameworks:** Page Object Model, Data Driven, BDD  
+**Dev Tools:** Git, GitHub, Maven, Jenkins, Jira  
 **Web Tech:** HTML, CSS, JSON, AWS  
-**Methodologies:** Agile, Scrum, Waterfall  
+**Databases:** MySQL, Oracle DB, JDBC  
+**Methodologies:** Agile, Scrum, Waterfall
 
 ---
 
-### 🎓 Education & Certifications
+### 📈 GitHub Stats
 
-- **BSc in Computer Science** — UBT, Prishtine  
-- **Cyber Academy Certified Professional**  
-  - OS Security, Cryptography, Networking  
-  - Web & Mobile Pentesting  
-  - Red Team Ops & Cybercrime Investigation
+![Dardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DardanKadrija&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DardanKadrija&layout=compact)
 
 ---
 
-### 📌 Projects Coming Soon
+### 📫 Connect with Me
 
-- ✅ Automated test suite for a weather app using Selenium + WebDriverIO  
-- 🔒 Penetration test labs using OWASP Juice Shop and DVWA  
-- 📊 REST API Testing Framework template with Cucumber + TestNG  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/dardan-kadrija-9930a935a/)  
+📧 dardan.kadrija@gmail.com
 
 ---
 
-### 📫 Let's Connect
-
-I'm currently seeking opportunities in **QA, SDET, or Technical Support Engineering** — remote or onsite.  
-Feel free to reach out, fork a project, or just say hi!
+> _"The best testers aren’t just bug hunters — they’re quality advocates."_
