@@ -2,7 +2,7 @@
 
 🚀 **SDET Engineer & Mentor** | 💻 **Technical Support Specialist** | 🛡️ **Cybersecurity Trained**  
 📍 Prishtinë, Kosovo | 🇽🇰  
-🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a) • [GitHub](https://github.com/DardanKadrija) • 📧 kadrijadardan@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a) • [GitHub](https://github.com/DardanKadrija)
 
 ---
 
