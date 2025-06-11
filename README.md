@@ -40,7 +40,7 @@ I'm a results-driven **Software Development Engineer in Test (SDET)** and **Tech
 ## 🧠 Education & Certifications
 
 ### 🎓 BSc in Computer Science — *UBT, Prishtinë*  
-📅 2016 – Present
+📅 2016 – 2019
 
 ### 🔐 Cybersecurity Certificate — *Cyber Academy*  
 📅 Mar 2023 – Mar 2024  
