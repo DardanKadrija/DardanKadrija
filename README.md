@@ -2,7 +2,7 @@
 
 🚀 **SDET Engineer & Mentor** | 🤖 **QA Automation Engineer** | 💻 **Technical Support Specialist** | 🛡️ **Cybersecurity Certified**  
 📍 Prishtinë, Kosovo 🇽🇰  
-🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a) • [GitHub](https://github.com/DardanKadrija)
+🔗 [LinkedIn](https://linkedin.com/in/dardan-kadrija-9930a935a)
 
 ---
 
