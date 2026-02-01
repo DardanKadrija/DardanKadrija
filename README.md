@@ -30,12 +30,6 @@ Experience across **UI/API testing**, **CI/CD integration**, **production suppor
 - CI-integrated regression pipelines  
 - Security labs and web testing exercises  
 
-*(Details on website.)*
-
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dardankadrija&show_icons=true&hide_title=true)
-
----
-
-**→ Full profile:** https://dardankadrija.com
+🌐 **Full profile:** https://dardankadrija.com
