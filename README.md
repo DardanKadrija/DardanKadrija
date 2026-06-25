@@ -26,7 +26,8 @@ A deep QA-automation and security background means I ship features *and* prove t
 ### Selected Work
 - **[Premium Renting](https://premium-renting.com)** — cross-platform Rent-a-Car management SaaS (fleet, reservations, customers). Node.js/Express · Nuxt/Vue · Redis · Docker.
 - **[Menaxhmenti](https://menaxhmenti.com)** — B2B field-operations platform: time-tracking, projects, and real-time inventory. Offline-first mobile · WebSocket live sync · multi-tenant.
-- **[Lajme Kosova](https://lajmekosove.com)** — Kosovo news aggregator with RSS parsing, dedup, and smart caching. Next.js 14 · TypeScript · Tailwind.
+- **[Azbest Detector](https://asbestos.onrender.com/)** — AI screening tool that flags likely asbestos-cement ("eternit") roofing from aerial imagery or photos, with a confidence score and reasoning per roof. Next.js 16 · TypeScript · MapLibre · Gemini Vision.
+- **[Lajme Kosova](https://github.com/DardanKadrija/lajmekosove)** — Kosovo news aggregator with RSS parsing, dedup, and smart caching. Next.js 14 · TypeScript · Tailwind.
 
 ---
 
