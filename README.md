@@ -1,35 +1,33 @@
 ## Dardan Kadrija
-
-**SDET / QA Automation Engineer**  
-Prishtinë, Kosovo · Remote / Relocation  
+**Senior Full-Stack Engineer** · TypeScript / React / Node.js
+Prishtinë, Kosovo · Remote / Hybrid / Relocation
 🌐 https://dardankadrija.com · 💼 https://linkedin.com/in/dardan-kadrija-9930a935a
 
 ---
 
-### Focus
-
-I design and maintain **automation frameworks** and **quality systems** that support reliable, scalable software.  
-Experience across **UI/API testing**, **CI/CD integration**, **production support**, and **security-aware testing**.
+### What I do
+I build and ship **cross-platform products end to end** — backend, frontend, and the CI/CD and quality gates around them.
+Currently architecting a cross-platform Rent-a-Car management system at **Animus Evolution** (web, mobile, desktop).
+A deep QA-automation and security background means I ship features *and* prove they hold up.
 
 ---
 
 ### Core Stack
-
-- **Automation:** Selenium, Cucumber, TestNG, REST Assured  
-- **Languages:** Java, Python, SQL, Bash  
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Security:** Burp Suite, OWASP ZAP  
-- **Containers:** Docker  
+- **Languages:** TypeScript, JavaScript, Python, Java, SQL
+- **Frontend:** React, Next.js, Nuxt / Vue, Tailwind
+- **Backend:** Node.js, Express, Nest.js, REST APIs, Redis
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD
+- **AI Dev Tools:** Claude Code, Codex, Cursor — core to my daily workflow
+- **Quality & Security:** Selenide, Cucumber, REST Assured, Burp Suite, OWASP ZAP
 
 ---
 
 ### Selected Work
-
-- Java UI + BDD automation frameworks  
-- API automation with database validation  
-- CI-integrated regression pipelines  
-- Security labs and web testing exercises  
+- **[Premium Renting](https://premium-renting.com)** — cross-platform Rent-a-Car management SaaS (fleet, reservations, customers). Node.js/Express · Nuxt/Vue · Redis · Docker.
+- **[Menaxhmenti](https://menaxhmenti.com)** — B2B field-operations platform: time-tracking, projects, and real-time inventory. Offline-first mobile · WebSocket live sync · multi-tenant.
+- **[Lajme Kosova](https://lajmekosove.com)** — Kosovo news aggregator with RSS parsing, dedup, and smart caching. Next.js 14 · TypeScript · Tailwind.
 
 ---
 
-🌐 **Full profile:** https://dardankadrija.com
+🌐 **Full profile & more:** https://dardankadrija.com
